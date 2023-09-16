@@ -1,5 +1,8 @@
-<<<<<<< HEAD
+
 #!/bin/bash echo "ALX School"
 =======
 echo "ALX School"
 >>>>>>> My personal work
+=======
+echo "ALX School"
+>>>>>>> b047bea61d05fe238426b2b55b0e7b870b5c9aee
